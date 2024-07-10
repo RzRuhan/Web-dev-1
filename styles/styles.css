@@ -1,0 +1,27 @@
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.nav-title {
+  font-weight: bold;
+  font-size: 28;
+}
+.btn {
+  background-color: white;
+  font-weight: 600;
+  font-size: 20;
+  color: #0d1321;
+  padding: 17px 24px;
+  border-radius: 8px;
+  border-width: 1px;
+}
+.bg-1 {
+  background-image: url(../styles/Hero-bg.png);
+}
