@@ -19,12 +19,13 @@ nav {
   font-size: 20;
   color: #0d1321;
   padding: 17px 24px;
-  border-radius: 8px;
+
   border-width: 1px;
 }
 .btn1 {
   background-color: #0d1321;
   color: white;
+  border-radius: 8px;
   padding: 21px 24px;
 }
 
@@ -55,7 +56,7 @@ nav {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
 .im1 {
@@ -63,5 +64,37 @@ nav {
   justify-content: center;
 }
 .btn-position {
+  text-align: center;
+}
+.fst {
+  padding: 26px 221px 44px 221px;
+}
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.second-page {
+  padding: 80px 97px 80px 97px;
+  margin: auto;
+}
+.first-part {
+  display: flex;
+  justify-content: space-between;
+}
+.section-head {
+  text-align: center;
+  font-size: 32;
+  color: #0d1321;
+}
+.section-description {
+  text-align: center;
+  font-size: 16;
+  color: #0d1321;
+}
+.des {
+  font-size: 16;
+  opacity: 70%;
+}
+.th1 {
   text-align: center;
 }
